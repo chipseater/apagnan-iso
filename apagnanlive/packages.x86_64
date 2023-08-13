@@ -145,7 +145,6 @@ dmenu
 lightdm
 lightdm-gtk-greeter
 web-greeter
-picom
 virglrenderer
 i3
 polybar
