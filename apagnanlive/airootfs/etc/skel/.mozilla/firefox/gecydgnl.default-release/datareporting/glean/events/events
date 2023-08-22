@@ -1,0 +1,8 @@
+{"timestamp":406027,"category":"fog.validation","name":"validate_early_event"}
+{"timestamp":407122,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers","reason":"invalid-feature"}}
+{"timestamp":407122,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers-and-other-ats-copy","reason":"invalid-feature","feature":"accessibilityCache"}}
+{"timestamp":849286,"category":"serp","name":"impression","extra":{"tagged":"true","provider":"google","shopping_tab_displayed":"false","is_shopping_page":"false","source":"urlbar","impression_id":"49e0f483-7a8f-4d5c-b603-8c8531d27f44","partner_code":"firefox-b-d"}}
+{"timestamp":853541,"category":"serp","name":"engagement","extra":{"target":"non_ads_link","action":"clicked","impression_id":"49e0f483-7a8f-4d5c-b603-8c8531d27f44"}}
+{"timestamp":888252,"category":"serp","name":"impression","extra":{"provider":"google","impression_id":"12ee0196-ceae-4da3-9673-0efc77c96f75","tagged":"true","source":"urlbar","shopping_tab_displayed":"false","partner_code":"firefox-b-d","is_shopping_page":"false"}}
+{"timestamp":890225,"category":"serp","name":"engagement","extra":{"action":"clicked","target":"non_ads_link","impression_id":"12ee0196-ceae-4da3-9673-0efc77c96f75"}}
+{"timestamp":924078,"category":"search.engine.default","name":"changed","extra":{"previous_engine_id":"google-b-d","new_submission_url":"https://duckduckgo.com/?t=ffab&q=","new_display_name":"DuckDuckGo","change_source":"user","new_engine_id":"ddg","new_load_path":"[addon]ddg@search.mozilla.org"}}

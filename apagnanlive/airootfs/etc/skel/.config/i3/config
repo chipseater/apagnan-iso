@@ -4,7 +4,7 @@ floating_modifier $mod
 exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 exec --no-startup-id nm-applet
-exec --no-startup-id picom
+exec --no-startup-id sudo calamares
 exec_always --no-startup-id dunst
 exec --no-startup-id firefox
 exec --no-startup-id spotify

@@ -1,0 +1,73 @@
+{
+    "schema": 6,
+    "addons": [
+        {
+            "id": "vimkeybindings@autonome.wordpress.com",
+            "icons": {
+                "32": "https://addons.mozilla.org/static-server/img/addon-icons/default-32.2b26add4b394.png",
+                "64": "https://addons.mozilla.org/static-server/img/addon-icons/default-64.d144b50f2bb8.png",
+                "128": "https://addons.mozilla.org/static-server/img/addon-icons/default-128.452018499894.png"
+            },
+            "name": "vimkeybindings",
+            "version": "2.0.2",
+            "sourceURI": "https://addons.mozilla.org/firefox/downloads/file/751827/vimkeybindings-2.0.2.xpi",
+            "homepageURL": "https://github.com/autonome/vimkeybindings",
+            "supportURL": null,
+            "description": "Vi(m) directional keybindings for Firefox.",
+            "fullDescription": "# Firefox extension with a few vi(m) keybindings.\n\n* [Install](https://addons.mozilla.org/en-US/firefox/addon/vimkeybindings/)\n* [Source on Github](https://github.com/autonome/vimkeybindings)\n\n## Supported Commands\n\n* h : scroll left\n* j : scroll down\n* k : scroll up\n* l : scroll right\n* g : go to the top of the page\n* G (shift-g) : go to the bottom of the page\n\n\n## Credits\n\n* Originally by the author of [this O'Reilly post](http://www.oreillynet.com/linux/blog/2006/04/firefox_with_vim_keybindings.html)\n* Packaged by Arno, a commenter there\n* Updated and repackaged by me on AMO\n* Documented by Christopher Svec\n* Rewritten from scratch with the WebExtensions API for Firefox 53 and after (and a few before) by me",
+            "weeklyDownloads": 3,
+            "type": "extension",
+            "creator": { "name": "dietrich ayala", "url": "https://addons.mozilla.org/en-US/firefox/user/198/" },
+            "developers": [],
+            "screenshots": [],
+            "contributionURL": "",
+            "averageRating": 5,
+            "reviewCount": 3,
+            "reviewURL": "https://addons.mozilla.org/en-US/firefox/addon/vimkeybindings/reviews/",
+            "updateDate": 1508941815000
+        },
+        {
+            "id": "{c0f86627-5243-4bf4-a522-a41ed12f1737}",
+            "icons": {
+                "32": "https://addons.mozilla.org/static-server/img/addon-icons/default-32.2b26add4b394.png",
+                "64": "https://addons.mozilla.org/static-server/img/addon-icons/default-64.d144b50f2bb8.png",
+                "128": "https://addons.mozilla.org/static-server/img/addon-icons/default-128.452018499894.png"
+            },
+            "name": "Everforest Dark",
+            "version": "2.0",
+            "sourceURI": "https://addons.mozilla.org/firefox/downloads/file/4055905/everforest_dark_official-2.0.xpi",
+            "homepageURL": null,
+            "supportURL": "https://github.com/sainnhe/everforest",
+            "description": "Port of https://github.com/sainnhe/everforest",
+            "fullDescription": null,
+            "weeklyDownloads": 14,
+            "type": "theme",
+            "creator": { "name": "Sainnhe Park", "url": "https://addons.mozilla.org/en-US/firefox/user/17205611/" },
+            "developers": [],
+            "screenshots": [
+                {
+                    "url": "https://addons.mozilla.org/user-media/version-previews/full/3930/3930860.png?modified=1673612829",
+                    "width": 680,
+                    "height": 92,
+                    "thumbnailURL": "https://addons.mozilla.org/user-media/version-previews/thumbs/3930/3930860.png?modified=1673612829",
+                    "thumbnailWidth": 473,
+                    "thumbnailHeight": 64
+                },
+                {
+                    "url": "https://addons.mozilla.org/user-media/version-previews/full/3930/3930861.svg?modified=1673612830",
+                    "width": 720,
+                    "height": 92,
+                    "thumbnailURL": "https://addons.mozilla.org/user-media/version-previews/thumbs/3930/3930861.jpg?modified=1673612830",
+                    "thumbnailWidth": 720,
+                    "thumbnailHeight": 92
+                }
+            ],
+            "contributionURL": "",
+            "averageRating": 5,
+            "reviewCount": 0,
+            "reviewURL": "https://addons.mozilla.org/en-US/firefox/addon/everforest-dark-official/reviews/",
+            "updateDate": 1673616064000
+        }
+    ]
+}
+

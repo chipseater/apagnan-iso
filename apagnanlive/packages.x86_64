@@ -1,4 +1,5 @@
 alsa-utils
+pulseaudio
 amd-ucode
 arch-install-scripts
 archinstall
@@ -126,6 +127,7 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+sddm
 ttf-firacode-nerd
 ttf-font-awesome
 conky
@@ -144,9 +146,6 @@ vim
 xorg
 xorg-fonts-misc
 dmenu
-lightdm
-lightdm-gtk-greeter
-web-greeter
 virglrenderer
 i3
 polybar
@@ -165,3 +164,8 @@ zip
 plymouth
 breeze-gtk
 calamares
+apagnan-calamares-settings
+kvantum
+qt5-graphicaleffects
+qt5-quickcontrols2
+qt5-svg

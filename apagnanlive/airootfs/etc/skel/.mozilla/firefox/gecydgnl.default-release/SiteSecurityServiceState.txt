@@ -1,0 +1,4 @@
+incoming.telemetry.mozilla.org	0	19590	1724162568057,1,0
+services.addons.mozilla.org	0	19590	1724162598486,1,0
+aus5.mozilla.org	0	19590	1724162598616,1,0
+firefox.settings.services.mozilla.com	0	19590	1724162567731,1,0

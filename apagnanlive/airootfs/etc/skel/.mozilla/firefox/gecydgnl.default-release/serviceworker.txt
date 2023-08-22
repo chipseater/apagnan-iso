@@ -1,0 +1,13 @@
+9
+
+https://linuxize.com/
+https://linuxize.com/sw.js
+true
+{5856a45f-81c2-418e-8809-f628ce9e3cce}
+0
+1692627031102116
+1692627031106014
+1692627030446054
+0
+true
+#

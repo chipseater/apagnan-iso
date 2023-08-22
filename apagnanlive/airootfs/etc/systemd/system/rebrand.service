@@ -1,0 +1,10 @@
+[Unit]
+Description=Fix thermals
+After=network.target
+
+[Service]
+ExecStart=/home/apagnan/.config/scripts/rebrand.sh
+Type=forking
+
+[Install]
+WantedBy=default.target
