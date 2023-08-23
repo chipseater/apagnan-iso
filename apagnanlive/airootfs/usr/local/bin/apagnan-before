@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sed '/calamares\|Installernd' /etc/skel/.config/i3/config
+

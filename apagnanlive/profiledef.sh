@@ -20,6 +20,7 @@ file_permissions=(
   ["/etc/skel/.config/rofi/rofi-power-menu"]="0:0:777"
   ["/etc/skel/.config/scripts/rebrand.sh"]="0:0:777"
   ["/usr/local/bin/apagnan-final"]="0:0:777"
+  ["/usr/local/bin/apagnan-before"]="0:0:777"
   ["/root"]="0:0:750"
   ["/root/.automated_script.sh"]="0:0:755"
   ["/usr/local/bin/choose-mirror"]="0:0:755"

@@ -23,7 +23,7 @@ Plug 'rafi/awesome-vim-colorschemes' " Retro Scheme
 Plug 'ryanoasis/vim-devicons' " Developer Icons
 Plug 'tc50cal/vim-terminal' " Vim Terminal
 Plug 'preservim/tagbar' " Tagbar for code navigation
-Plug 'sainnhe/everforest' " Everforest
+Plug 'neanias/everforest' " Everforest
 Plug 'lervag/vimtex' " Latex /w nvim
 Plug 'honza/vim-snippets' " Default snippets
 Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' } " Snippets engine
@@ -47,7 +47,7 @@ let g:vimtex_view_general_viewer = 'evince'
 let g:NERDTreeDirArrowExpandable="+"
 let g:NERDTreeDirArrowCollapsible="~"
 let g:airline#extensions#tabline#enabled = 1
-let g:airline_theme='simple'
+let g:airline_theme='onedark'
 let g:deoplete#enable_at_startup = 1
 let g:tex_conceal='abdmg'
 " let g:python3_host_prog='~/.conda/envs/pynvim/bin/python3'

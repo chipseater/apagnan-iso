@@ -116,6 +116,8 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
+neovim
+python-pynvim
 vivid
 virtualbox-guest-utils-nox
 vpnc

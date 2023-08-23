@@ -6,7 +6,6 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 exec --no-startup-id nm-applet
 exec --no-startup-id sudo calamares
 exec_always --no-startup-id dunst
-exec --no-startup-id firefox
 exec --no-startup-id spotify
 exec --no-startup-id discord
 
@@ -137,9 +136,7 @@ bindsym $mod+Shift+9 move container to workspace number $ws9
 bindsym $mod+Shift+0 move container to workspace number $ws10
 
 for_window [title="Mozilla Firefox"] move to workspace $ws2
-for_window [title="Spotify"] move to workspace $ws4
-for_window [title=" - Discord"] move to workspace $ws5
-for_window [title="Discord Updater"] move to workspace $ws5
+for_window [title="Apagnan Installer"] floating enable
 
 # reload the configuration file
 bindsym $mod+Shift+c reload

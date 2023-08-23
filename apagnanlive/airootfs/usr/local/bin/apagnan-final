@@ -5,9 +5,7 @@ mv /etc/lsb-release.old /etc/lsb-release
 rm /etc/systemd/system/multi-user.target.wants/rebrand.service
 
 # Removes sddm autologin
-sed 's/apagnan//' /etc/sddm.conf.d/default.conf 
-sed 's/i3.desktop//' /etc/sddm.conf.d/default.conf
-
-# Removes calamares autostart
-sed '/calamares/d' ~/.config/i3/config
+sed 's/apagnan//' /etc/sddm.conf.d/default.conf > /etc/sddm.conf.d/default.conf
+sed 's/i3.desktop//' /etc/sddm.conf.d/default.conf > /etc/sddm.conf.d/default.conf
+rm /etc/sddm.conf # Removes a file that overwrites my config
 
